@@ -64,7 +64,8 @@ fi
 if [[ ! -f ${INPUT_PREFIX}/RoaMeR.jar ]]; then
 	echo "Please specify the input directory containing the RoaMeR JAR file"
 	exit -1
-
+else
+	JAR=${INPUT_PREFIX}/RoaMeR.jar
 fi
 
 #------------------------------------------------------------------------------------------------
