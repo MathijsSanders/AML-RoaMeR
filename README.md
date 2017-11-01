@@ -1,6 +1,6 @@
 # AML-RoaMeR
 
-This repository contains preset instructions to reproduce relative mutation rate (RMR) statistics and figures reported in "[Germline loss of *MBD4* predisposes to leukaemia due to a mutagenic cascade driven by 5mC](https://www.biorxiv.org/)" (Sanders & Chew et al., 2017). Little to no adjustments will be made over the course of time as to keep the results in line with the manuscript. The current development snapshots of [RoaMeR](https://github.com/MathijsSanders/RoaMeR) and [superFreq](https://github.com/ChristofferFlensburg/superFreq) can be found at their respective repositories. 
+This repository contains preset instructions to reproduce relative mutation rate (RMR) statistics and figures reported in "[Germline loss of *MBD4* predisposes to leukaemia due to a mutagenic cascade driven by 5mC](https://www.biorxiv.org/content/early/2017/11/01/180588)" (Sanders & Chew et al., 2017). Little to no adjustments will be made over the course of time as to keep the results in line with the manuscript. The current development snapshots of [RoaMeR](https://github.com/MathijsSanders/RoaMeR) and [superFreq](https://github.com/ChristofferFlensburg/superFreq) can be found at their respective repositories. 
 
 ## How do I run it?
 
